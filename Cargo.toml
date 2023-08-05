@@ -3,7 +3,10 @@ name = "lord_cubed"
 version = "0.1.0"
 authors = ["Lord"]
 edition = "2021"
-
+readme = "README.md"
+repository = "https://github.com/thelordman/LordCubed"
+license = "MIT"
+license-file = "LICENSE.md"
 
 [dependencies]
 ash = "0.37.3"
